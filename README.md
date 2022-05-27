@@ -4,6 +4,11 @@
 - 💞️ I’m looking to get involved in any interesting project.
 - 📫 How to reach me: send me an email: jodlowski79@gmail.com
 
+My projects:
+Tropical Scout (Delphi) - Tropical Storm avoiding manouver with GPS interface.
+C++ refresher excercises - small executable codes written to practice coding techniques and math. Refresher for comming automation tests course in June
+
+
 <!---[CV Piotr Jodlowski.pdf](https://github.com/PiotrJodlowski/PiotrJodlowski/files/8388071/CV.Piotr.Jodlowski.pdf)
 
 PiotrJodlowski/PiotrJodlowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
