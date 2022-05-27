@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PiotrJodlowski
-- 👀 I’m a Manual Test Engineer with experience with system/acceptance/regresion tests with bugs/incidents reporting of automation systems in offshore industry
-- 🌱 I’m currently getting experience in Manual Testing/webservices/sql/programming with a prospect of automation testing in a near future.
+- 👋 Hi, I’m @Piotr Jodlowski
+- 👀 I’m a Manual Test Engineer experienced in system/acceptance/regresion tests with bugs/incidents reporting of automation systems in offshore industry
+- 🌱 I’m currently getting experience in Autmation testing/webservices/sql/programming.
 - 💞️ I’m looking to get involved in any interesting project.
 - 📫 How to reach me: send me an email: jodlowski79@gmail.com
 
