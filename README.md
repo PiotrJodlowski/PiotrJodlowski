@@ -7,6 +7,8 @@
 My projects:
 Tropical Scout (Delphi) - Tropical Storm avoiding manouver with GPS interface.
 C++ refresher excercises - small executable codes written to practice coding techniques and math. Refresher for comming automation tests course in June
+JAVA prework before Automation Tester course @ CodersLab
+HTML Resume - website with my resume (HTML/CSS/JS)
 
 
 <!---[CV Piotr Jodlowski.pdf](https://github.com/PiotrJodlowski/PiotrJodlowski/files/8388071/CV.Piotr.Jodlowski.pdf)
